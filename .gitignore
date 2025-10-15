@@ -1,0 +1,4 @@
+# Правила для .gitignore
+.vscode/
+__pycache__/
+*.pyc
